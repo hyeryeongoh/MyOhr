@@ -5,4 +5,5 @@
 - Subject : OSS Practice  
 - Classroom : 다향관 
 - Contents : Git & Github
-    - Git Commands
+    - Git Basic
+    - Git Workflow
